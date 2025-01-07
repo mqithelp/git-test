@@ -41,5 +41,9 @@ public class Main {
         System.out.println("Task 3.2 work with task 3.2");
         System.out.println("Work with task 3.2....");
         System.out.println("Work with task 3.2 find error...");
+        System.out.println("Task 4 branch 4");
+        System.out.println("Task 4.1 branch 4");
+        System.out.println("Task 4.1 branch 4 work error");
+
     }
 }
