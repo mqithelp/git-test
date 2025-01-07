@@ -40,5 +40,6 @@ public class Main {
         System.out.println("Tsk 3.1 branch 3 pull request");
         System.out.println("Task 3.2 work with task 3.2");
         System.out.println("Work with task 3.2....");
+        System.out.println("Work with task 3.2 find error...");
     }
 }
