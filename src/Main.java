@@ -38,5 +38,6 @@ public class Main {
         System.out.println("Tsk 3 branch 3");
         System.out.println("Tsk 3.1 branch 3");
         System.out.println("Tsk 3.1 branch 3 pull request");
+        System.out.println("Task 4 branch 4");
     }
 }
