@@ -34,6 +34,7 @@ public class Main {
             System.out.println("Время выполнения потока: " + duration + " мс");
         }
         System.out.println("Task 1 push");
-        System.out.println("Task 2 push to branch 2 ");
+        System.out.println("Task 2 push to branch 2 merged ");
+        System.out.println("Tsk 3 branch 3");
     }
 }
