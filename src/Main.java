@@ -33,6 +33,6 @@ public class Main {
             System.out.println("Sum=" + sum);
             System.out.println("Время выполнения потока: " + duration + " мс");
         }
-
+        System.out.println("Task 1 push");
     }
 }
